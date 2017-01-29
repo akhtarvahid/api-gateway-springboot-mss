@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClorikTask</string>
+    <string name="load">Load image from:</string>
+    <style name="background">#6db6fa</style>
+</resources>
